@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: microservice-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: microservice-demo
+  template:
+    metadata:
+      labels:
+        app: microservice-demo
+    spec:
+      containers:
+      - name: microservice-demo
+        image: microservice-demo:1.0
+        ports:
+        - containerPort: 80
