@@ -120,3 +120,4 @@
 /home/robot/Documents/AiProjects/WebApi/MicroserviceDemo/obj/Debug/net9.0/MicroserviceDemo.pdb
 /home/robot/Documents/AiProjects/WebApi/MicroserviceDemo/obj/Debug/net9.0/MicroserviceDemo.genruntimeconfig.cache
 /home/robot/Documents/AiProjects/WebApi/MicroserviceDemo/obj/Debug/net9.0/ref/MicroserviceDemo.dll
+/home/robot/Documents/AiProjects/WebApi/MicroserviceDemo/obj/Debug/net9.0/MicroserviceDemo.sourcelink.json
