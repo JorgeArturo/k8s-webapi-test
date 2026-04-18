@@ -14,6 +14,7 @@ spec:
     spec:
       containers:
       - name: microservice-demo
-        image: microservice-demo:1.0
+        image: microservice-demo:9
+        imagePullPolicy: Never
         ports:
         - containerPort: 80
